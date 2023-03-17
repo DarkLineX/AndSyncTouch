@@ -1,6 +1,6 @@
 ### AndSyncTouch
 
-安卓点击同步器[XPOSED_MOUDLE]
+安卓点击同步器[XPOSED_MODULE]
 
 将A手机操作同步到B手机，支持更多A->[B C D E F G H]
 
