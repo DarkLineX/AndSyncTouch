@@ -21,9 +21,7 @@
 
 ### 传输服务器
 
-需要一个长连接框架进行交互，选择 [sekiro](https://github.com/yint-tech/sekiro-open)
+compile "org.java-websocket:Java-WebSocket:1.5.3"
 
->SEKIRO是一个多语言的、分布式、网络拓扑无关的服务发布平台，通过书写各自语言的handler将功能发布到中心API市场，业务系统通过RPC的方式使用远端节点的能力。
- 更多介绍，请参考详细文档： https://iinti.cn/sekiro/
 
 
